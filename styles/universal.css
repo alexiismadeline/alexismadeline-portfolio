@@ -78,8 +78,13 @@ main {
 .Flesh.Unbound.VimeoLink {
     margin-bottom: 20px;
 }
-.resumetext {
-    margin-left: 60px;
+.resumetext img{
+    margin-left: 0px;
+    max-width: 50%;
+    height: auto;
+}
+.resumetext{
+    text-align: center;
 }
 
 .bio-container {
